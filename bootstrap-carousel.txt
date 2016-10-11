@@ -1,0 +1,27 @@
+<div id="wel-slide" class="carousel slide" data-ride="carousel">
+    <!-- Indicators -->
+    <ol class="carousel-indicators">
+        <li data-target="#wel-slide" data-slide-to="0" class="active"></li>
+        <li data-target="#wel-slide" data-slide-to="1"></li>
+        <li data-target="#wel-slide" data-slide-to="2"></li>
+    </ol>
+
+    <!-- Wrapper for slides -->
+    <div class="carousel-inner" role="listbox">
+        <div class="item active">
+            <div class="wel-bg"></div>
+            <div class="wel-caption">
+
+            </div>
+        </div>
+
+    </div>
+
+    <!-- Controls -->
+    <a class="left wel-control-left" href="#wel-slide" role="button" data-slide="prev">
+        <i class="fa fa-angle-left"></i>
+    </a>
+    <a class="right wel-control-right" href="#wel-slide" role="button" data-slide="next">
+        <i class="fa fa-angle-right"></i>
+    </a>
+</div>
